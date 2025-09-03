@@ -117,8 +117,6 @@ local function showExportDialog()
 end
 
 ----------------------------------------------------
--- Função Import (ainda não implementada)
-----------------------------------------------------
 local function showImportDialog()
   -- Aqui você vai colar o código do Import
 
@@ -150,7 +148,6 @@ dlg:number{ id="frameH",  label="Altura do frame (px):", text=tostring(defaultFr
 
 dlg:separator{ text="Informe quantos frames existem em cada direção (inteiro):" }
 -- Coloque defaults estimados (máximo possível)
--- rows será calculado logo depois; por enquanto usamos um palpite
 dlg:number{ id="sulCount",  label="Frames Sul:",  text="69" }
 dlg:number{ id="norteCount",label="Frames Norte:",text="69" }
 dlg:number{ id="lesteCount",label="Frames Leste:",text="69" }
