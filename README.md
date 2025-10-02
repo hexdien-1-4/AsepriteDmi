@@ -35,7 +35,6 @@ It is especially useful for character animations where frames are separated by d
 
 ### ❤️ Support
 If you want to support the project, you can donate here:  
-- [Buy Me a Coffee](https://www.buymeacoffee.com/hexdien)  
 - [PayPal](https://paypal.me/hexdien)  
 
 ---
@@ -71,5 +70,4 @@ O **AsepriteDmi** é um script para Aseprite que ajuda a organizar e gerar sprit
 
 ### ❤️ Apoie o Projeto
 Se você quiser apoiar o projeto, pode fazer uma doação:  
-- [Buy Me a Coffee](https://www.buymeacoffee.com/hexdien)  
 - [PayPal](https://paypal.me/hexdien)  
